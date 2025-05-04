@@ -108,6 +108,24 @@ If things goes well, this section should automatically be replaced by a list of 
     text_color: "9f9f9f",
     bg_color: "151515",
   },
+     text_color: "9f9f9f",
+    bg_color: "151515",
+  },
   radical: {
     title_color: "fe428e",
-    ic
+       text_color: "9f9f9f",
+    bg_color: "151515",
+  },
+  radical: {
+    title_color: "fe428e",
+       text_color: "9f9f9f",
+    bg_color: "151515",
+  },
+  radical: {
+    title_color: "fe428e",
+       text_color: "9f9f9f",
+    bg_color: "151515",
+  },
+  radical: {
+    title_color: "fe428e",
+   

@@ -72,7 +72,12 @@ You can click the Preview link to take a look at your changes.
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+    text_color: "9f9f9f",
+    bg_color: "151515",
+  },
+  radical: {
+    title_color: "fe428e",
+   
 <br/>  
 
 
@@ -108,24 +113,9 @@ If things goes well, this section should automatically be replaced by a list of 
     text_color: "9f9f9f",
     bg_color: "151515",
   },
-     text_color: "9f9f9f",
+    text_color: "9f9f9f",
     bg_color: "151515",
   },
-  radical: {
-    title_color: "fe428e",
-       text_color: "9f9f9f",
-    bg_color: "151515",
-  },
-  radical: {
-    title_color: "fe428e",
-       text_color: "9f9f9f",
-    bg_color: "151515",
-  },
-  radical: {
-    title_color: "fe428e",
-       text_color: "9f9f9f",
-    bg_color: "151515",
-  },
-  radical: {
-    title_color: "fe428e",
+
+   
    

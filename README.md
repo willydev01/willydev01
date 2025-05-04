@@ -105,3 +105,9 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+    text_color: "9f9f9f",
+    bg_color: "151515",
+  },
+  radical: {
+    title_color: "fe428e",
+    ic

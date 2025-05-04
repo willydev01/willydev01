@@ -1,8 +1,7 @@
 - 👋 olá @willydev01
 - 👀 I’m interested in em NODE js mas aprendendo muito sobre banco de dados.
 - 🌱 I’m currently learning Node js, banco de dados My sql e algumas poucos coisa de css .
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Pelo meu instagram @_willy.033.
 
 
 <!---
